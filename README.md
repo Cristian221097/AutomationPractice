@@ -1,6 +1,6 @@
-Automatizacion AutomationPractice
+#Automatizacion AutomationPractice
 
-Prerrequisitos
+##Prerrequisitos
 
 1. Tener instalado intellij.
 2. Utilizar la version de java 11.0.16
@@ -65,7 +65,7 @@ Prerrequisitos
 
     </dependencies>
 
-# Ejecucion
+## Ejecucion
 
 Dirigirse al archivo TestCollection.xml
 
